@@ -78,8 +78,7 @@
       window.addEventListener('scroll', updateActiveNav, { passive: true });
 
       /* -------------------------------------------
-         Scroll-Triggered Reveal Animations
-         (IntersectionObserver)
+       
          ------------------------------------------- */
       var revealElements = document.querySelectorAll('.reveal');
 
