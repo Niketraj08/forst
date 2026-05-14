@@ -1,12 +1,4 @@
-/* 
 
-JavaScript Document
-
-TemplateMo 613 Frost Bakery
-
-https://templatemo.com/tm-613-frost-bakery
-
-*/
 
     (function () {
       'use strict';
