@@ -77,9 +77,7 @@
 
       window.addEventListener('scroll', updateActiveNav, { passive: true });
 
-      /* -------------------------------------------
-       
-         ------------------------------------------- */
+    
       var revealElements = document.querySelectorAll('.reveal');
 
       if ('IntersectionObserver' in window) {
