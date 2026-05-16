@@ -103,14 +103,7 @@
         });
       }
 
-      /* -------------------------------------------
-         Smooth Scroll for Sidebar Links
-         (enhanced for offset with sidebar)
-         ------------------------------------------- */
-         /* -------------------------------------------
-         Smooth Scroll for Sidebar Links
-         (enhanced for offset with sidebar)
-         ------------------------------------------- */
+     
       document.querySelectorAll('a[href^="#"]').forEach(function (anchor) {
         anchor.addEventListener('click', function (e) {
           var target = document.querySelector(this.getAttribute('href'));
